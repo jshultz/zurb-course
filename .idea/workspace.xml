@@ -2,47 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396f30c1-be39-4a91-9e6b-757ba5958315" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/img/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/breadcrumbs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/button-group.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-3/centered.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/vendor/custom.modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/dropdown-buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.abide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.alerts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.clearing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/css/foundation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.forms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.interchange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.joyride.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.magellan.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/css/foundation.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.orbit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.reveal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.section.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.tooltips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/foundation/foundation.topbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-3/nested.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-3/offsets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-3/ordering.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/pagination.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-3/predefined.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/sidenav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/split-buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/subnav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-5/js/vendor/zepto.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/img/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/img/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/vendor/custom.modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/vendor/custom.modernizr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/errors.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/fieldset.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/flex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.abide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.abide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.alerts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.alerts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.clearing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.clearing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/css/foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/css/foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.interchange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.interchange.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.joyride.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.joyride.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.magellan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.magellan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/css/foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/css/foundation.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.orbit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.orbit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.reveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.reveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.section.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.section.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.tooltips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.tooltips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/foundation/foundation.topbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/foundation/foundation.topbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/humans.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/humans.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/inline-lists.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/inline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/keystroke.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/labels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/panel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/postfix.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/pricing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/progress.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/thumbs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-6/js/vendor/zepto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/section-7/js/vendor/zepto.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zurb-course.iws" />
@@ -66,19 +94,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="split-buttons.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/section-5/split-buttons.html">
+      <file leaf-file-name="pricing.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-7/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="13" selection-start="2819" selection-end="2819" vertical-scroll-proportion="0.5224719" vertical-offset="741" max-vertical-offset="2070">
+            <state line="38" column="31" selection-start="1053" selection-end="1053" vertical-scroll-proportion="-16.25" vertical-offset="180" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dropdown-buttons.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/section-5/dropdown-buttons.html">
+      <file leaf-file-name="progress.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-7/progress.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="25" selection-start="2361" selection-end="2361" vertical-scroll-proportion="-5.625" vertical-offset="735" max-vertical-offset="2100">
+            <state line="33" column="31" selection-start="1024" selection-end="1024" vertical-scroll-proportion="-11.25" vertical-offset="225" max-vertical-offset="1425">
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tables.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-7/tables.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="55" column="16" selection-start="1719" selection-end="1719" vertical-scroll-proportion="-23.416666" vertical-offset="263" max-vertical-offset="1815">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="thumbs.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/section-7/thumbs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="49" selection-start="763" selection-end="763" vertical-scroll-proportion="-11.875" vertical-offset="180" max-vertical-offset="1470">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flex.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/section-7/flex.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="14" selection-start="757" selection-end="757" vertical-scroll-proportion="0.6334459" vertical-offset="45" max-vertical-offset="1410">
               <folding />
             </state>
           </provider>
@@ -102,31 +162,31 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/section-2/contact.html" />
-        <option value="$PROJECT_DIR$/section-3/index.html" />
-        <option value="$PROJECT_DIR$/section-3/nested.html" />
-        <option value="$PROJECT_DIR$/section-3/offsets.html" />
-        <option value="$PROJECT_DIR$/section-3/centered.html" />
-        <option value="$PROJECT_DIR$/section-3/ordering.html" />
-        <option value="$PROJECT_DIR$/section-3/predefined.html" />
-        <option value="$PROJECT_DIR$/section-5/index.html" />
-        <option value="$PROJECT_DIR$/section-5/pagination.html" />
-        <option value="$PROJECT_DIR$/section-5/sidenav.html" />
-        <option value="$PROJECT_DIR$/section-5/subnav.html" />
-        <option value="$PROJECT_DIR$/section-5/breadcrumbs.html" />
-        <option value="$PROJECT_DIR$/section-5/buttons.html" />
-        <option value="$PROJECT_DIR$/section-5/button-group.html" />
-        <option value="$PROJECT_DIR$/section-5/dropdown-buttons.html" />
-        <option value="$PROJECT_DIR$/section-5/split-buttons.html" />
+        <option value="$PROJECT_DIR$/section-6/forms.html" />
+        <option value="$PROJECT_DIR$/section-6/fieldset.html" />
+        <option value="$PROJECT_DIR$/section-6/postfix.html" />
+        <option value="$PROJECT_DIR$/section-6/inline.html" />
+        <option value="$PROJECT_DIR$/section-6/errors.html" />
+        <option value="$PROJECT_DIR$/section-7/inline-lists.html" />
+        <option value="$PROJECT_DIR$/section-7/typography.html" />
+        <option value="$PROJECT_DIR$/section-7/labels.html" />
+        <option value="$PROJECT_DIR$/section-7/keystroke.html" />
+        <option value="$PROJECT_DIR$/section-7/alert.html" />
+        <option value="$PROJECT_DIR$/section-7/panel.html" />
+        <option value="$PROJECT_DIR$/section-7/pricing.html" />
+        <option value="$PROJECT_DIR$/section-7/progress.html" />
+        <option value="$PROJECT_DIR$/section-7/tables.html" />
+        <option value="$PROJECT_DIR$/section-7/thumbs.html" />
+        <option value="$PROJECT_DIR$/section-7/flex.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="229" />
-    <option name="y" value="32" />
-    <option name="width" value="1130" />
-    <option name="height" value="728" />
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -182,7 +242,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="section-5" />
+              <option name="myItemId" value="section-7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -200,58 +260,43 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="084a2f89-2822-4c9e-b7ad-48cba9d06d46">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="3c79362c-779f-4807-9378-e2e305050762">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="978207ff-53ca-4db3-aa2f-9d15f2bfefc0">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="e5d535a7-c7c9-41e7-951f-2ba6610770e5">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
-  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/section-5" />
+      <recent name="$PROJECT_DIR$/section-7" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/section-3" />
-      <recent name="$PROJECT_DIR$/section-2" />
+      <recent name="$PROJECT_DIR$/section-6/css" />
+      <recent name="$PROJECT_DIR$/section-6" />
+      <recent name="$PROJECT_DIR$/section-5" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true">
+      <setting name="config_file" value="" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <list size="0" />
@@ -283,16 +328,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="229" y="32" width="1130" height="728" extended-state="0" />
-    <editor active="false" />
+    <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972136" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25443262" sideWeight="0.7770383" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10468521" sideWeight="0.6702786" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22296172" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -300,6 +344,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -318,114 +363,113 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/section-3/predefined.html">
+    <entry file="file://$PROJECT_DIR$/section-6/forms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="46" selection-start="1055" selection-end="1055" vertical-scroll-proportion="0.16453382" vertical-offset="480" max-vertical-offset="1755">
+        <state line="30" column="22" selection-start="811" selection-end="811" vertical-scroll-proportion="-0.5833333" vertical-offset="436" max-vertical-offset="2025" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-6/js/foundation/foundation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-6/css/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="451" selection-end="451" vertical-scroll-proportion="0.65346533" vertical-offset="0" max-vertical-offset="70995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-7/js/vendor/zepto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="30090">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-3/nested.html">
+    <entry file="file://$PROJECT_DIR$/section-6/errors.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="18" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1515">
+        <state line="31" column="47" selection-start="891" selection-end="891" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1695">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-3/offsets.html">
+    <entry file="file://$PROJECT_DIR$/section-7/typography.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="66" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="1545">
+        <state line="14" column="29" selection-start="396" selection-end="396" vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="2475">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-3/centered.html">
+    <entry file="file://$PROJECT_DIR$/section-7/inline-lists.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="67" selection-start="1075" selection-end="1075" vertical-scroll-proportion="0.0" vertical-offset="615" max-vertical-offset="1485">
+        <state line="28" column="13" selection-start="737" selection-end="737" vertical-scroll-proportion="-13.75" vertical-offset="90" max-vertical-offset="1320">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-3/ordering.html">
+    <entry file="file://$PROJECT_DIR$/section-7/labels.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="54" selection-start="1408" selection-end="1408" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1605">
+        <state line="22" column="11" selection-start="482" selection-end="482" vertical-scroll-proportion="-2.5" vertical-offset="270" max-vertical-offset="1290">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-3/index.html">
+    <entry file="file://$PROJECT_DIR$/section-7/keystroke.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="0" selection-start="4809" selection-end="4809" vertical-scroll-proportion="-81.541664" vertical-offset="233" max-vertical-offset="2280">
+        <state line="25" column="50" selection-start="618" selection-end="618" vertical-scroll-proportion="-13.75" vertical-offset="45" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-2/index.html">
+    <entry file="file://$PROJECT_DIR$/section-7/alert.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="8" selection-start="1716" selection-end="3176" vertical-scroll-proportion="-11.791667" vertical-offset="632" max-vertical-offset="1980">
+        <state line="41" column="14" selection-start="1171" selection-end="1186" vertical-scroll-proportion="-23.416666" vertical-offset="53" max-vertical-offset="1515">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-5/index.html">
+    <entry file="file://$PROJECT_DIR$/section-7/panel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="0" selection-end="3645" vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="1575">
+        <state line="23" column="10" selection-start="540" selection-end="540" vertical-scroll-proportion="-6.25" vertical-offset="195" max-vertical-offset="1455">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-5/pagination.html">
+    <entry file="file://$PROJECT_DIR$/section-7/pricing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="1941" selection-end="1941" vertical-scroll-proportion="-15.0" vertical-offset="195" max-vertical-offset="1605">
+        <state line="38" column="31" selection-start="1053" selection-end="1053" vertical-scroll-proportion="-16.25" vertical-offset="180" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-5/sidenav.html">
+    <entry file="file://$PROJECT_DIR$/section-7/progress.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="29" selection-start="2282" selection-end="2292" vertical-scroll-proportion="-10.416667" vertical-offset="500" max-vertical-offset="1785">
+        <state line="33" column="31" selection-start="1024" selection-end="1024" vertical-scroll-proportion="-11.25" vertical-offset="225" max-vertical-offset="1425">
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section-7/tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="16" selection-start="1719" selection-end="1719" vertical-scroll-proportion="-23.416666" vertical-offset="263" max-vertical-offset="1815">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-5/breadcrumbs.html">
+    <entry file="file://$PROJECT_DIR$/section-7/thumbs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="13" selection-start="0" selection-end="4797" vertical-scroll-proportion="0.505618" vertical-offset="315" max-vertical-offset="2145">
+        <state line="31" column="49" selection-start="763" selection-end="763" vertical-scroll-proportion="-11.875" vertical-offset="180" max-vertical-offset="1470">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section-5/button-group.html">
+    <entry file="file://$PROJECT_DIR$/section-7/flex.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="83" column="14" selection-start="3850" selection-end="3850" vertical-scroll-proportion="0.9831461" vertical-offset="720" max-vertical-offset="2145">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/section-5/buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="84" selection-start="2483" selection-end="2483" vertical-scroll-proportion="0.66292137" vertical-offset="651" max-vertical-offset="2055">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/section-5/subnav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="0" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.56179774" vertical-offset="405" max-vertical-offset="1905">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/section-5/dropdown-buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="25" selection-start="2361" selection-end="2361" vertical-scroll-proportion="-5.625" vertical-offset="735" max-vertical-offset="2100">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/section-5/split-buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="13" selection-start="2819" selection-end="2819" vertical-scroll-proportion="0.5224719" vertical-offset="741" max-vertical-offset="2070">
+        <state line="28" column="14" selection-start="757" selection-end="757" vertical-scroll-proportion="0.6334459" vertical-offset="45" max-vertical-offset="1410">
           <folding />
         </state>
       </provider>
